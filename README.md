@@ -18,3 +18,7 @@
 ## Startapp
 
 - python3 manage.py startapp courses
+
+## Video
+
+- https://www.youtube.com/watch?v=1UY6A1dl-Vw&list=PLCC34OHNcOtoYO3FuoCEt9r7AbfuDKse_&index=6
