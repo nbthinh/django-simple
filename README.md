@@ -18,6 +18,7 @@
 ## Startapp
 
 - python3 manage.py startapp courses
+- python3 manage.py createsuperuser
 
 ## Video
 
